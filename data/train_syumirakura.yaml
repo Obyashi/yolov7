@@ -1,0 +1,6 @@
+train: ./data/train_syumirakura/train/images
+val: ./data/train_syumirakura/valid/images
+
+nc: 13
+
+names: ['outlet','bird','building','can','car','food','ice','konkuri-to','mobile','rock','tentoumushi','wood',ei]
